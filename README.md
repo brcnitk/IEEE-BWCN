@@ -18,3 +18,5 @@ IEEE Building Wireless Community Network's for ITI college students...
 > Speedtest ([Website](https://www.speedtest.net/), [Google Play](https://play.google.com/store/search?q=speedtest&c=apps))
 
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
+>
+> WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
