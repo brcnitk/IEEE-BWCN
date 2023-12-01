@@ -20,5 +20,7 @@ IEEE Building Wireless Community Network's for ITI college students...
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
 > WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
->
+
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
+>
+> Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
