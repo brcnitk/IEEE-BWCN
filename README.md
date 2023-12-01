@@ -12,3 +12,5 @@ IEEE Building Wireless Community Network's for ITI college students...
 ## Mobile Apps
 
 > Network Analyzer ([Website](https://technet.net/netanalyzer))
+>
+> Wifi Analyzer ([Website](https://www.wifianalyzer.info/))
