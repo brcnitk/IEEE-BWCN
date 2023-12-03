@@ -33,6 +33,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 > MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
 
 > Kismet ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/))
+
 >> Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more. (ಕಿಸ್ಮೆಟ್ ವೈ-ಫೈ, ಬ್ಲೂಟೂತ್, ಬಿಟಿಎಲ್‌ಇ, ವೈರ್‌ಲೆಸ್ ಥರ್ಮಾಮೀಟರ್‌ಗಳು, ಏರ್‌ಪ್ಲೇನ್‌ಗಳು, ಪವರ್ ಮೀಟರ್‌ಗಳು, ಜಿಗ್‌ಬೀ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಓಪನ್ ಸೋರ್ಸ್ ಸ್ನಿಫರ್, ವೈಡ್ಸ್, ವಾರ್ಡ್‌ರೈವರ್ ಮತ್ತು ಪ್ಯಾಕೆಟ್ ಕ್ಯಾಪ್ಚರ್ ಟೂಲ್ ಆಗಿದೆ.)
 
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
