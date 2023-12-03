@@ -30,3 +30,7 @@ IEEE Building Wireless Community Network's for ITI college students...
 > Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
+
+## Resources
+
+> [Kannada Wikipedia](https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F)
