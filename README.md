@@ -53,6 +53,8 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 >> WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
 
+> Cisco Packet Tracer ([Installation](https://www.geeksforgeeks.org/how-to-install-cisco-packet-tracer-on-windows/))
+
 </details>
 
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
