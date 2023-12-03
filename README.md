@@ -53,9 +53,15 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 ಪ್ಯಾಕೆಟ್ ಟ್ರೇಸರ್ ಎನ್ನುವುದು ಸಿಸ್ಕೋ ಸಿಸ್ಟಮ್ಸ್ ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಕ್ರಾಸ್-ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ದೃಶ್ಯ ಸಿಮ್ಯುಲೇಶನ್ ಸಾಧನವಾಗಿದ್ದು ಅದು ಬಳಕೆದಾರರಿಗೆ ನೆಟ್‌ವರ್ಕ್ ಟೋಪೋಲಜಿಗಳನ್ನು ರಚಿಸಲು ಮತ್ತು ಆಧುನಿಕ ಕಂಪ್ಯೂಟರ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಅನುಕರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/5a443919-4155-4eed-9da5-b5b6d220b1f0)
+
 > Wireshark ([Website](https://www.wireshark.org/), [ವಿವರ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C), [Download](https://www.wireshark.org/download.html))
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/f7dfa837-7d7c-4964-af08-b87dc70b327e)
+
 > MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
+
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ef3b03a1-b949-464b-a4d4-34602ed1c944)
 
 > Kismet ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/))
 
