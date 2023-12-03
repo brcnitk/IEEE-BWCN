@@ -5,6 +5,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 <details>
 <summary>Detail - ವಿವರ</summary>
+<br />
 
 > [Software - ತಂತ್ರಾಂಶ](https://kn.wikipedia.org/wiki/%E0%B2%A4%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%B6)
 
@@ -26,6 +27,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 <details>
 <summary>Detail - ವಿವರ</summary>
+<br />
 
 > Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html))
 
@@ -64,6 +66,7 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 <details>
 <summary>Detail - ವಿವರ</summary>
+<br />
 
 > Network Analyzer ([Website](https://technet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
