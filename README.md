@@ -49,7 +49,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 >> Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more. (ಕಿಸ್ಮೆಟ್ ವೈ-ಫೈ, ಬ್ಲೂಟೂತ್, ಬಿಟಿಎಲ್‌ಇ, ವೈರ್‌ಲೆಸ್ ಥರ್ಮಾಮೀಟರ್‌ಗಳು, ಏರ್‌ಪ್ಲೇನ್‌ಗಳು, ಪವರ್ ಮೀಟರ್‌ಗಳು, ಜಿಗ್‌ಬೀ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಓಪನ್ ಸೋರ್ಸ್ ಸ್ನಿಫರ್, ವೈಡ್ಸ್, ವಾರ್ಡ್‌ರೈವರ್ ಮತ್ತು ಪ್ಯಾಕೆಟ್ ಕ್ಯಾಪ್ಚರ್ ಟೂಲ್ ಆಗಿದೆ.)
 
-> WifiInfo ([Website - ಜಾಲತಾಣ][(https://www.kismetwireless.net/](https://www.nirsoft.net/utils/wifi_information_view.html)))
+> WifiInfo ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/](https://www.nirsoft.net/utils/wifi_information_view.html)))
 
 >> WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
 
