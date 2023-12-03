@@ -21,6 +21,8 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 <summary>Detail - ವಿವರ</summary>
 </details>
 
+> WiFi Standards - ವೈಫೈ ಗುಣಮಟ್ಟ ([Website](https://standards.ieee.org/beyond-standards/the-evolution-of-wi-fi-technology-and-standards/))
+
 </details>
 
 ## Hardware Devices (ಯಂತ್ರಾಂಶ ಸಾಧನ)
