@@ -4,15 +4,18 @@ IEEE Building Wireless Community Network's for ITI college students...
 ## Terminology (ಪರಿಭಾಷೆ)
 
 <details>
-  <summary>Detail - ವಿವರ</summary>
- 
-  > [WWW (World Wide Web - ವರ್ಲ್ಡ್ ವೈಡ್ ವೆಬ್)](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%B2%E0%B3%8D%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%88%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%86%E0%B2%AC%E0%B3%8D)
-  
-  > [Internet - ಅಂತರಜಾಲ](https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%B2)
-  
-  > [Website - ಜಾಲತಾಣ](https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B2%BE%E0%B2%B2%E0%B2%A4%E0%B2%BE%E0%B2%A3)
+<summary>Detail - ವಿವರ</summary>
 
-  > [Internet Protocol (IP) - ಅಂತರಜಾಲ ಶಿಷ್ಟಾಚಾರ](https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%B2_%E0%B2%B6%E0%B2%BF%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B2%BE%E0%B2%9A%E0%B2%BE%E0%B2%B0_(Internet_Protocol))
+> [Software - ತಂತ್ರಾಂಶ](https://kn.wikipedia.org/wiki/%E0%B2%A4%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%B6)
+
+> [WWW (World Wide Web - ವರ್ಲ್ಡ್ ವೈಡ್ ವೆಬ್)](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%B2%E0%B3%8D%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%88%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%86%E0%B2%AC%E0%B3%8D)
+
+> [Internet - ಅಂತರಜಾಲ](https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%B2)
+
+> [Website - ಜಾಲತಾಣ](https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B2%BE%E0%B2%B2%E0%B2%A4%E0%B2%BE%E0%B2%A3)
+
+> [Internet Protocol (IP) - ಅಂತರಜಾಲ ಶಿಷ್ಟಾಚಾರ](https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%B2_%E0%B2%B6%E0%B2%BF%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B2%BE%E0%B2%9A%E0%B2%BE%E0%B2%B0_(Internet_Protocol))
+
 </details>
 
 ## Hardware Devices (ಯಂತ್ರಾಂಶ ಸಾಧನ)
