@@ -20,13 +20,21 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 ## Hardware Devices (ಯಂತ್ರಾಂಶ ಸಾಧನ)
 
+<details>
+<summary>Detail - ವಿವರ</summary>
+
 > Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html))
 
 > Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm))
->
+
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
+</details>
+
 ## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
+
+<details>
+<summary>Detail - ವಿವರ</summary>
 
 > Wireshark ([Website](https://www.wireshark.org/), [Download](https://www.wireshark.org/download.html))
 
@@ -36,7 +44,12 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 >> Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more. (ಕಿಸ್ಮೆಟ್ ವೈ-ಫೈ, ಬ್ಲೂಟೂತ್, ಬಿಟಿಎಲ್‌ಇ, ವೈರ್‌ಲೆಸ್ ಥರ್ಮಾಮೀಟರ್‌ಗಳು, ಏರ್‌ಪ್ಲೇನ್‌ಗಳು, ಪವರ್ ಮೀಟರ್‌ಗಳು, ಜಿಗ್‌ಬೀ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಓಪನ್ ಸೋರ್ಸ್ ಸ್ನಿಫರ್, ವೈಡ್ಸ್, ವಾರ್ಡ್‌ರೈವರ್ ಮತ್ತು ಪ್ಯಾಕೆಟ್ ಕ್ಯಾಪ್ಚರ್ ಟೂಲ್ ಆಗಿದೆ.)
 
+</details>
+
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
+
+<details>
+<summary>Detail - ವಿವರ</summary>
 
 > Network Analyzer ([Website](https://technet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
@@ -53,6 +66,8 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 > Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
+
+</details>
 
 ## Resources (ಸಂಪನ್ಮೂಲಗಳು)
 
