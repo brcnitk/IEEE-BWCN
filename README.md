@@ -38,10 +38,13 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 ## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
 
 <details>
-  
+
 <summary>Detail - ವಿವರ</summary>
+<br />
 
 > Cisco Packet Tracer ([Installation](https://www.geeksforgeeks.org/how-to-install-cisco-packet-tracer-on-windows/))
+
+ಪ್ಯಾಕೆಟ್ ಟ್ರೇಸರ್ ಎನ್ನುವುದು ಸಿಸ್ಕೋ ಸಿಸ್ಟಮ್ಸ್ ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಕ್ರಾಸ್-ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ದೃಶ್ಯ ಸಿಮ್ಯುಲೇಶನ್ ಸಾಧನವಾಗಿದ್ದು ಅದು ಬಳಕೆದಾರರಿಗೆ ನೆಟ್‌ವರ್ಕ್ ಟೋಪೋಲಜಿಗಳನ್ನು ರಚಿಸಲು ಮತ್ತು ಆಧುನಿಕ ಕಂಪ್ಯೂಟರ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಅನುಕರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.
 
 > Wireshark ([Website](https://www.wireshark.org/), [ವಿವರ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C), [Download](https://www.wireshark.org/download.html))
 
@@ -49,11 +52,11 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 > Kismet ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/))
 
->> Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more. (ಕಿಸ್ಮೆಟ್ ವೈ-ಫೈ, ಬ್ಲೂಟೂತ್, ಬಿಟಿಎಲ್‌ಇ, ವೈರ್‌ಲೆಸ್ ಥರ್ಮಾಮೀಟರ್‌ಗಳು, ಏರ್‌ಪ್ಲೇನ್‌ಗಳು, ಪವರ್ ಮೀಟರ್‌ಗಳು, ಜಿಗ್‌ಬೀ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಓಪನ್ ಸೋರ್ಸ್ ಸ್ನಿಫರ್, ವೈಡ್ಸ್, ವಾರ್ಡ್‌ರೈವರ್ ಮತ್ತು ಪ್ಯಾಕೆಟ್ ಕ್ಯಾಪ್ಚರ್ ಟೂಲ್ ಆಗಿದೆ.)
+Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more. (ಕಿಸ್ಮೆಟ್ ವೈ-ಫೈ, ಬ್ಲೂಟೂತ್, ಬಿಟಿಎಲ್‌ಇ, ವೈರ್‌ಲೆಸ್ ಥರ್ಮಾಮೀಟರ್‌ಗಳು, ಏರ್‌ಪ್ಲೇನ್‌ಗಳು, ಪವರ್ ಮೀಟರ್‌ಗಳು, ಜಿಗ್‌ಬೀ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳಿಗಾಗಿ ಓಪನ್ ಸೋರ್ಸ್ ಸ್ನಿಫರ್, ವೈಡ್ಸ್, ವಾರ್ಡ್‌ರೈವರ್ ಮತ್ತು ಪ್ಯಾಕೆಟ್ ಕ್ಯಾಪ್ಚರ್ ಟೂಲ್ ಆಗಿದೆ.)
 
 > WifiInfo ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/](https://www.nirsoft.net/utils/wifi_information_view.html)))
 
->> WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
+WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
 
 </details>
 
