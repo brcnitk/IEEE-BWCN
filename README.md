@@ -28,8 +28,6 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 ## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
 
-> [Zabbix](https://www.zabbix.com/)
->
 > Wireshark([Website](https://www.wireshark.org/), [Download](https://www.wireshark.org/download.html))
 
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
