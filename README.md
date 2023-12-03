@@ -16,10 +16,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 > [Internet Protocol (IP) - ಅಂತರಜಾಲ ಶಿಷ್ಟಾಚಾರ](https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%B2_%E0%B2%B6%E0%B2%BF%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B2%BE%E0%B2%9A%E0%B2%BE%E0%B2%B0_(Internet_Protocol))
 
-> WiFi
-<details>
-<summary>Detail - ವಿವರ</summary>
-</details>
+> WiFi ([Website](), [ವಿವರಣೆ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88-%E0%B2%AB%E0%B3%88))
 
 > WiFi Standards - ವೈಫೈ ಗುಣಮಟ್ಟ ([Website](https://standards.ieee.org/beyond-standards/the-evolution-of-wi-fi-technology-and-standards/))
 
