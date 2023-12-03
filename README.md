@@ -70,7 +70,11 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Network Analyzer ([Website](https://techet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
+ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಕವು ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಣೆ, ಸ್ಕ್ಯಾನಿಂಗ್ ಮತ್ತು ಸಮಸ್ಯೆ ಪತ್ತೆಗಾಗಿ ಆಲ್-ಇನ್-ಒನ್ iPhone ಮತ್ತು Android ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ.
+
 > Wifi Analyzer ([Website](https://www.wifianalyzer.info/), [Google Play](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer))
+
+ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ಸುತ್ತಲಿನ ವೈರ್‌ಲೆಸ್ ಸಿಗ್ನಲ್‌ಗಳ ಕುರಿತು ಉಪಯುಕ್ತ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ.
 
 > Speedtest ([Website](https://www.speedtest.net/), [Google Play](https://play.google.com/store/search?q=speedtest&c=apps))
 
