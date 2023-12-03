@@ -17,7 +17,7 @@ IEEE Building Wireless Community Network's for ITI college students...
 
 > [Zabbix](https://www.zabbix.com/)
 
-## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್ಗಳು)
+## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
 
 > Network Analyzer ([Website](https://technet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
