@@ -41,7 +41,7 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 <details>
 <summary>Detail - ವಿವರ</summary>
 
-> Wireshark ([Website](https://www.wireshark.org/), [ವಿವರ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C}, [Download](https://www.wireshark.org/download.html))
+> Wireshark ([Website](https://www.wireshark.org/), [ವಿವರ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C), [Download](https://www.wireshark.org/download.html))
 
 > MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
 
