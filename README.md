@@ -83,9 +83,13 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಕವು ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಣೆ, ಸ್ಕ್ಯಾನಿಂಗ್ ಮತ್ತು ಸಮಸ್ಯೆ ಪತ್ತೆಗಾಗಿ ಆಲ್-ಇನ್-ಒನ್ iPhone ಮತ್ತು Android ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ.
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ae48cf66-cf06-4e78-8cc2-a596c719e36e)
+
 > Wifi Analyzer ([Website](https://www.wifianalyzer.info/), [Google Play](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer))
 
 ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ಸುತ್ತಲಿನ ವೈರ್‌ಲೆಸ್ ಸಿಗ್ನಲ್‌ಗಳ ಕುರಿತು ಉಪಯುಕ್ತ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ.
+
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/481a5267-cdde-489b-8a59-6a8b20956d1c)
 
 > Speedtest ([Website](https://www.speedtest.net/), [Google Play](https://play.google.com/store/search?q=speedtest&c=apps))
 
@@ -93,13 +97,21 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3)
+
 > WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
 
 ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಉತ್ತಮ ಚಾನಲ್ ಮತ್ತು ಸ್ಥಳವನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತದೆ.
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/47829662-9892-46ec-92de-1df61d9d5ddc)
+
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/b6e43279-dbfe-4bfd-b09f-d10ad3c9afbb)
+
 > Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
+
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/55deb3c2-9310-43db-bb19-46e3da70d2a8)
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
 
