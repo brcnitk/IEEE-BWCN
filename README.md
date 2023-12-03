@@ -78,9 +78,13 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Speedtest ([Website](https://www.speedtest.net/), [Google Play](https://play.google.com/store/search?q=speedtest&c=apps))
 
+ವೇಗ ಪರೀಕ್ಷೆ® ಓಕ್ಲಾ ಅವರಿಂದ® ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದ ವೇಗ ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿರ್ಣಾಯಕ ಮಾರ್ಗವಾಗಿದೆ.
+
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
 > WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
+
+ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಉತ್ತಮ ಚಾನಲ್ ಮತ್ತು ಸ್ಥಳವನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತದೆ.
 
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
 
