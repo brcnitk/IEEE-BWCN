@@ -114,6 +114,8 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
 
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/7b481ac7-b47b-49f0-8efb-7b1f573b4378" width="150" height="150">
+
 </details>
 
 ## Resources (ಸಂಪನ್ಮೂಲಗಳು)
