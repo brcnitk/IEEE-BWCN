@@ -28,7 +28,9 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 ## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
 
-> Wireshark([Website](https://www.wireshark.org/), [Download](https://www.wireshark.org/download.html))
+> Wireshark ([Website](https://www.wireshark.org/), [Download](https://www.wireshark.org/download.html))
+>
+> MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
 
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
 
