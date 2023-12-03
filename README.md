@@ -7,9 +7,9 @@ IEEE Building Wireless Community Network's for ITI college students...
 
 ## Hardware Devices (ಯಂತ್ರಾಂಶ ಸಾಧನ)
 
-> Range Extenders - Tp-Link RE300 ([Website](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html))
+> Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html))
 
-> Wireless N Router - TL-WR840N ([Website](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm))
+> Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm))
 >
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
