@@ -5,7 +5,7 @@ IEEE Building Wireless Community Network's for ITI college students...
 
 > [WWW (World Wide Web - ವರ್ಲ್ಡ್ ವೈಡ್ ವೆಬ್)](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%B2%E0%B3%8D%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%88%E0%B2%A1%E0%B3%8D_%E0%B2%B5%E0%B3%86%E0%B2%AC%E0%B3%8D)
 
-## Hardware Devices
+## Hardware Devices (ಯಂತ್ರಾಂಶ ಉಪಕರಣಗಳು)
 
 > Range Extenders - Tp-Link RE300 ([Website](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator](https://emulator.tp-link.com/re300/index.html))
 
@@ -13,11 +13,11 @@ IEEE Building Wireless Community Network's for ITI college students...
 >
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
-## Software Tools
+## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
 
 > [Zabbix](https://www.zabbix.com/)
 
-## Mobile Apps
+## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್ಗಳು)
 
 > Network Analyzer ([Website](https://technet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
