@@ -41,6 +41,8 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
   
 <summary>Detail - ವಿವರ</summary>
 
+> Cisco Packet Tracer ([Installation](https://www.geeksforgeeks.org/how-to-install-cisco-packet-tracer-on-windows/))
+
 > Wireshark ([Website](https://www.wireshark.org/), [ವಿವರ](https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C), [Download](https://www.wireshark.org/download.html))
 
 > MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
@@ -52,8 +54,6 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 > WifiInfo ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/](https://www.nirsoft.net/utils/wifi_information_view.html)))
 
 >> WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
-
-> Cisco Packet Tracer ([Installation](https://www.geeksforgeeks.org/how-to-install-cisco-packet-tracer-on-windows/))
 
 </details>
 
