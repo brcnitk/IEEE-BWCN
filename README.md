@@ -106,6 +106,8 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
 
+NetSpot ಎಂಬುದು Android ಫೋನ್‌ಗಳು, ಟ್ಯಾಬ್ಲೆಟ್‌ಗಳು ಮತ್ತು Chromebooks ಗಾಗಿ ಪ್ರಬಲ ಶಾಖ ಮ್ಯಾಪಿಂಗ್ ಸಾಧನವಾಗಿದೆ.
+
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/b6e43279-dbfe-4bfd-b09f-d10ad3c9afbb" width="150" height="150">
 
 > Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
@@ -113,6 +115,8 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/55deb3c2-9310-43db-bb19-46e3da70d2a8" width="150" height="150">
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
+
+TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಗಳೊಂದಿಗೆ ನಿಮ್ಮ TP-ಲಿಂಕ್ ರೂಟರ್/ xDSL ರೂಟರ್/ ರೇಂಜ್ ಎಕ್ಸ್‌ಟೆಂಡರ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು ಸುಲಭವಾದ ಮಾರ್ಗವನ್ನು ಒದಗಿಸುತ್ತದೆ.
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/7b481ac7-b47b-49f0-8efb-7b1f573b4378" width="150" height="150">
 
