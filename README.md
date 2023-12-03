@@ -35,6 +35,9 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 > Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm))
 
+![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/d8adc5d4-bb4e-4719-bd69-84fed18ad66f)
+
+
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
 </details>
