@@ -29,8 +29,11 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 ## Software Tools (ತಂತ್ರಾಂಶ ಸಾಧನ)
 
 > Wireshark ([Website](https://www.wireshark.org/), [Download](https://www.wireshark.org/download.html))
->
+
 > MikroTik ([Website - ಜಾಲತಾಣ](https://mikrotik.com/))
+
+> Kismet ([Website - ಜಾಲತಾಣ](https://www.kismetwireless.net/))
+>> Kismet is an open source sniffer, WIDS, wardriver, and packet capture tool for Wi-Fi, Bluetooth, BTLE, wireless thermometers, airplanes, power meters, Zigbee, and more.
 
 ## Mobile Apps (ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್)
 
