@@ -68,7 +68,7 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 <summary>Detail - ವಿವರ</summary>
 <br />
 
-> Network Analyzer ([Website](https://technet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
+> Network Analyzer ([Website](https://techet.net/netanalyzer), [Google Play](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an))
 
 > Wifi Analyzer ([Website](https://www.wifianalyzer.info/), [Google Play](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer))
 
