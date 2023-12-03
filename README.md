@@ -96,21 +96,21 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3" width="150" height="150">
 
 > WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
 
 ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಉತ್ತಮ ಚಾನಲ್ ಮತ್ತು ಸ್ಥಳವನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತದೆ.
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/47829662-9892-46ec-92de-1df61d9d5ddc)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/47829662-9892-46ec-92de-1df61d9d5ddc" width="150" height="150">
 
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/b6e43279-dbfe-4bfd-b09f-d10ad3c9afbb)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/b6e43279-dbfe-4bfd-b09f-d10ad3c9afbb" width="150" height="150">
 
 > Fing ([Google Play](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en&gl=US))
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/55deb3c2-9310-43db-bb19-46e3da70d2a8)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/55deb3c2-9310-43db-bb19-46e3da70d2a8" width="150" height="150">
 
 > Tp-Link Tether ([Google Play](https://play.google.com/store/apps/details?id=com.tplink.tether&hl=en&gl=US))
 
