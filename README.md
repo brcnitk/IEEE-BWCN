@@ -29,11 +29,11 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 <summary>Detail - ವಿವರ</summary>
 <br />
 
-> Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html))
+> Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html), [Login](http://tplinkrepeater.net/))
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/6adea19f-763d-4f76-8434-1a8a17647b0d" width="250" height="250">
 
-> Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm))
+> Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm), [Login](http://tplinkwifi.net/))
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/d8adc5d4-bb4e-4719-bd69-84fed18ad66f" width="250" height="250">
 
