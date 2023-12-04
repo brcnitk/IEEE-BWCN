@@ -37,6 +37,10 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/d8adc5d4-bb4e-4719-bd69-84fed18ad66f" width="250" height="250">
 
+> 8-Port Gigabit Desktop Switch - TL-SG1008D ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/soho-switch/tl-sg1008d/))
+
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/bff87bcb-91d8-4b24-9583-04737ec275f0" width="250" height="250">
+
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
 </details>
