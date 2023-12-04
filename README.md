@@ -41,6 +41,10 @@ IEEE Building Wireless Community Network's for ITI college students... [more det
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/bff87bcb-91d8-4b24-9583-04737ec275f0" width="250" height="250">
 
+> D-Link Pocket Cloud Router - DIR-506L ([Website - ಜಾಲತಾಣ](https://eu.dlink.com/uk/en/products/dir-506l-shareport-go))
+
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/93175492-8b24-4772-a285-89705c2d2d98" width="450" height="250">
+
 > [Tp-Link Emulator](https://www.tp-link.com/in/support/emulator/)
 
 </details>
