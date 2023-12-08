@@ -137,3 +137,13 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 > [IEEE Blended Learning](https://blended-learning.ieee.org/Portal/)
 
 > [IEEE 802.11 Group](https://www.ieee802.org/11/)
+
+## Training Programme Memories
+
+<details>
+
+<summary>ITI Koppa (5-6 December, 2023)</summary>
+<br />
+
+  
+</details>
