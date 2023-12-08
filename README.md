@@ -1,5 +1,5 @@
 # IEEE-BWCN
-IEEE Building Wireless Community Network's for ITI college students... [more detail](https://blended-learning.ieee.org/Portal/Catalog/ViewCourse/11831/Building-Wireless-Community-Networks-2.0)
+IEEE Building Wireless Community Network's training programme for ITI college students... [more detail](https://blended-learning.ieee.org/Portal/Catalog/ViewCourse/11831/Building-Wireless-Community-Networks-2.0)
 
 ## Terminology (ಪರಿಭಾಷೆ)
 
