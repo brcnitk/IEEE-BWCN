@@ -135,11 +135,17 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 ## Resources (ಸಂಪನ್ಮೂಲಗಳು)
 
+<details>
+<summary>Detail - ವಿವರ</summary>
+<br />
+
 > [ಕನ್ನಡ ವಿಕಿಪೀಡಿಯ](https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F): ಕನ್ನಡದ ಒಂದು ಸ್ವತಂತ್ರ ವಿಶ್ವಕೋಶ
 
 > [IEEE Blended Learning](https://blended-learning.ieee.org/Portal/)
 
 > [IEEE 802.11 Group](https://www.ieee802.org/11/)
+
+</details>
 
 ## Training Programme Memories
 
@@ -148,5 +154,15 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 <summary>ITI Koppa (5-6 December, 2023)</summary>
 <br />
 
-  
+![ITI-Koppa-Feedback](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/64c063c9-45c6-4a86-a19b-30918fc59f11)
+
+</details>
+
+<details>
+
+<summary>ITI Chikmangaluru (5-6 December, 2023)</summary>
+<br />
+
+![Uploading ITI-Koppa-Feedback.jpeg…]()
+
 </details>
