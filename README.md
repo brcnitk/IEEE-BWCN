@@ -90,14 +90,14 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಕವು ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಣೆ, ಸ್ಕ್ಯಾನಿಂಗ್ ಮತ್ತು ಸಮಸ್ಯೆ ಪತ್ತೆಗಾಗಿ ಆಲ್-ಇನ್-ಒನ್ iPhone ಮತ್ತು Android ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ.
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ae48cf66-cf06-4e78-8cc2-a596c719e36e)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ae48cf66-cf06-4e78-8cc2-a596c719e36e" width="125" height="125">
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/1eaec429-a8c4-4e35-af31-af7ce5219d80" width="125" height="125" hspace="20">
 
 > Wifi Analyzer ([Website](https://www.wifianalyzer.info/), [Google Play](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer))
 
 ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ಸುತ್ತಲಿನ ವೈರ್‌ಲೆಸ್ ಸಿಗ್ನಲ್‌ಗಳ ಕುರಿತು ಉಪಯುಕ್ತ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ.
 
-![image](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/481a5267-cdde-489b-8a59-6a8b20956d1c)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/481a5267-cdde-489b-8a59-6a8b20956d1c" width="125" height="125">
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/34127a18-dcc2-4df2-941a-027433dbd2e2" width="125" height="125" hspace="20">
 
 > Speedtest ([Website](https://www.speedtest.net/), [Google Play](https://play.google.com/store/search?q=speedtest&c=apps))
@@ -106,7 +106,8 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
-<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3" width="150" height="150">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3" width="125" height="125">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ec5a6655-808e-4f04-bb1d-6ec2cc55759a" width="125" height="125" hspace="20">
 
 > WiFi Analyzer ([Google Play](https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro&pcampaignid=web_share))
 
