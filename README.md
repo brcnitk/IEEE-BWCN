@@ -151,7 +151,7 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 <details>
 
-<summary>ITI Koppa (5-6 December, 2023)</summary>
+<summary>Govt. ITI Koppa (5-6 December, 2023)</summary>
 <br />
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/db4afa9b-1b09-442c-9a27-5e7959613528" width="270" height="200">
@@ -165,7 +165,7 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 <details>
 
-<summary>ITI Chikmangaluru (5-6 December, 2023)</summary>
+<summary>Govt. ITI Chikmangaluru (5-6 December, 2023)</summary>
 <br />
 
 </details>
