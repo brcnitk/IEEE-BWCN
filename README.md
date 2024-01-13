@@ -113,7 +113,8 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 ವೈಫೈ ವಿಶ್ಲೇಷಕವು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಉತ್ತಮ ಚಾನಲ್ ಮತ್ತು ಸ್ಥಳವನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತದೆ.
 
-<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/47829662-9892-46ec-92de-1df61d9d5ddc" width="150" height="150">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/47829662-9892-46ec-92de-1df61d9d5ddc" width="125" height="125">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/e6a1023b-d24d-4d78-a684-0076fd072de8" width="125" height="125" hspace="20">
 
 > NetSopt ([Google Play](https://play.google.com/store/search?q=NetSpot&c=apps&hl=en&gl=US))
 
