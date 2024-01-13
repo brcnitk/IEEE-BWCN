@@ -154,7 +154,12 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 <summary>ITI Koppa (5-6 December, 2023)</summary>
 <br />
 
-![ITI-Koppa-Feedback](https://github.com/brcnitk/IEEE-BWCN/assets/23404824/64c063c9-45c6-4a86-a19b-30918fc59f11)
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/db4afa9b-1b09-442c-9a27-5e7959613528" width="270" height="200">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/40cdb648-6574-490e-a938-561d835600e6" width="270" height="200" hspace="20">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/8b9f7cd6-d70a-4f17-834d-61d07f1a97c0" width="270" height="200" hspace="20">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/84fb1889-c35b-4a82-8bbe-13a1fc643c3b" width="270" height="200">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/573f0857-73f5-4f1d-a0a0-6d06daaf0641" width="270" height="200" hspace="20">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/c5510541-4ee9-4410-91bd-10f6345f7ea1" width="270" height="200" hspace="20">
 
 </details>
 
