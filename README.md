@@ -168,6 +168,4 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 <summary>ITI Chikmangaluru (5-6 December, 2023)</summary>
 <br />
 
-![Uploading ITI-Koppa-Feedback.jpeg…]()
-
 </details>
