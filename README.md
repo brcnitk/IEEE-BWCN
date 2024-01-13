@@ -165,21 +165,21 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 <details>
 
-<summary>Govt. ITI Chikkamagaluru (16-19 December, 2023)</summary>
+<summary>Govt. ITI Chikkamagaluru (16-19 January, 2024)</summary>
 <br />
 
 </details>
 
 <details>
 
-<summary>Govt. ITI Puttur (24-25 December, 2023)</summary>
+<summary>Govt. ITI Puttur (24-25 January, 2024)</summary>
 <br />
 
 </details>
 
 <details>
 
-<summary>Govt. ITI Mangalore (29-30 December, 2023)</summary>
+<summary>Govt. ITI Mangalore (29-30 January, 2024)</summary>
 <br />
 
 </details>
