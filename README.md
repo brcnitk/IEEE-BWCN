@@ -29,9 +29,13 @@ IEEE Building Wireless Community Network's training programme for ITI college st
 <summary>Detail - ವಿವರ</summary>
 <br />
 
-> Range Extenders - Tp-Link RE300 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html), [Login](http://tplinkrepeater.net/))
+> Range Extenders - Tp-Link RE200 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re200/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html), [Login](http://tplinkrepeater.net/))
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/6adea19f-763d-4f76-8434-1a8a17647b0d" width="250" height="250">
+
+> Range Extenders - Tp-Link WA850RE ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/tl-wa850re/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re300/index.html), [Login](http://tplinkrepeater.net/))
+
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/f931fc36-f943-4e79-9b35-1418fcf7a94b" width="250" height="250">
 
 > Wireless N Router - TL-WR840N ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/wifi-router/tl-wr840n/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/Emulator_TL-WR840NV6_EU/index.htm), [Login](http://tplinkwifi.net/))
 
