@@ -108,6 +108,9 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 
 ವೇಗ ಪರೀಕ್ಷೆ® ಓಕ್ಲಾ ಅವರಿಂದ® ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದ ವೇಗ ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿರ್ಣಾಯಕ ಮಾರ್ಗವಾಗಿದೆ.
 
+<img src="https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest" width="125" height="125">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/5cd330c7-9cb5-4fb4-9359-7bd6b2e6b83a" width="125" height="125" hspace="20">
+
 > Fast ([Website](https://fast.com/), [Google Play](https://play.google.com/store/apps/details?id=com.netflix.Speedtest&hl=en&gl=US))
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/49173105-7a36-43fb-bb24-56933bd3daf3" width="125" height="125">
