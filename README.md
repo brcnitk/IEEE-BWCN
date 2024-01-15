@@ -95,7 +95,7 @@ WifiInfoView scans the wireless networks in your area and displays extensive inf
 ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಕವು ನೆಟ್‌ವರ್ಕ್ ವಿಶ್ಲೇಷಣೆ, ಸ್ಕ್ಯಾನಿಂಗ್ ಮತ್ತು ಸಮಸ್ಯೆ ಪತ್ತೆಗಾಗಿ ಆಲ್-ಇನ್-ಒನ್ iPhone ಮತ್ತು Android ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ.
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/ae48cf66-cf06-4e78-8cc2-a596c719e36e" width="125" height="125">
-<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/1eaec429-a8c4-4e35-af31-af7ce5219d80" width="125" height="125" hspace="20">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/0517c8f7-8eac-4024-8ee7-f66af1a92dea" width="125" height="125" hspace="20">
 
 > Wifi Analyzer ([Website](https://www.wifianalyzer.info/), [Google Play](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer))
 
