@@ -45,6 +45,10 @@ IEEE Building Wireless Community Network's training programme for ITI college st
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/bff87bcb-91d8-4b24-9583-04737ec275f0" width="250" height="250">
 
+> Wireless Router - TL-MR3020 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/3g-4g-router/tl-mr3020/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/MR3020_V3-2-23/index.htm), [Login](http://tplinkwifi.net/))
+
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/dff5aa41-87b7-45a4-91c2-d0fb7e23232c" width="250" height="250">
+
 > D-Link Pocket Cloud Router - DIR-506L ([Website - ಜಾಲತಾಣ](https://eu.dlink.com/uk/en/products/dir-506l-shareport-go), [Login](http://dlinkrouter.local/), [USB-Login](http://dlinkrouter.local/:8181))
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/93175492-8b24-4772-a285-89705c2d2d98" width="450" height="250">
