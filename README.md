@@ -49,9 +49,9 @@ IEEE Building Wireless Community Network's training programme for ITI college st
 
 <img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/dff5aa41-87b7-45a4-91c2-d0fb7e23232c" width="250" height="250">
 
-> Wi-Fi Range Extender - RE315 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re315/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/MR3020_V3-2-23/index.htm), [Login](http://tplinkrepeater.net/))
+> Wi-Fi Range Extender - RE315 ([Website - ಜಾಲತಾಣ](https://www.tp-link.com/in/home-networking/range-extender/re315/), [Emulator - ಅನುಸಾಧಕ](https://emulator.tp-link.com/re315/index.html#networkMap), [Login](http://tplinkrepeater.net/))
 
-<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/dff5aa41-87b7-45a4-91c2-d0fb7e23232c" width="250" height="250">
+<img src="https://github.com/brcnitk/IEEE-BWCN/assets/23404824/59a407c6-0b64-4b65-af06-55a662c0fe3d" width="250" height="250">
 
 > D-Link Pocket Cloud Router - DIR-506L ([Website - ಜಾಲತಾಣ](https://eu.dlink.com/uk/en/products/dir-506l-shareport-go), [Login](http://dlinkrouter.local/), [USB-Login](http://dlinkrouter.local/:8181))
 
