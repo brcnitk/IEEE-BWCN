@@ -166,7 +166,7 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 </details>
 
-## Training Programme Memories
+## Organized Training Programme
 
 <details>
 
