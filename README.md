@@ -202,3 +202,17 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 <br />
 
 </details>
+
+<details>
+
+<summary>Govt. ITI Ponnampete, Kodagu, Karnataka (13-14 February, 2024)</summary>
+<br />
+
+</details>
+
+<details>
+
+<summary>Govt. ITI Alur, Hassan, Karnataka (15-16 February, 2024)</summary>
+<br />
+
+</details>
