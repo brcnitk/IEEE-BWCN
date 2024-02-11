@@ -212,7 +212,7 @@ TP-ಲಿಂಕ್ ಟೆಥರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧ�
 
 <details>
 
-<summary>Govt. ITI Alur, Hassan, Karnataka (15-16 February, 2024)</summary>
+<summary>Govt. ITI Alur, Siddapura, Kodagu, Karnataka (15-16 February, 2024)</summary>
 <br />
 
 </details>
